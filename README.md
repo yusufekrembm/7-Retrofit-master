@@ -1,5 +1,7 @@
 # 7-Retrofit-master
-Android Projects Course
+Android Projects Udemy Course 
+ 
+ - This project was made by cloning from the udemy java kotlin course.
 
 - API project.
 - Data is being pulled by web with retrofit method
